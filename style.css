@@ -17,7 +17,7 @@ body {
 
 /* Estilo do título */
 h1 {
-  color: #2a9d8f; /* Verde mais suave */
+  color: #792a9d; /* roxo */
   margin-bottom: 20px;
   font-size: 2.5rem;
   font-weight: bold;
@@ -61,5 +61,5 @@ button {
 }
 
 button:hover {
-  background-color: #3e2652;
+  background-color: #cbbfd4;
 }
